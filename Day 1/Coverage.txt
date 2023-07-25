@@ -1,0 +1,17 @@
+Who is a WebAPI developer and what should they know ?
+
+1. Fundamentals 
+2. Create/develop a webapi application 
+3. Consume API applications shared by clients / other teams etc.....
+
+we develop this on .net core platform
+
+we configure it with Open Source design patterns
+
+1. DI - Dependency Injection 
+2. ORM - Object Relational Mapping - Entity Framework - SQL Server - CRUD Operations
+3. Repository Pattern - 1 of the best pattern 
+4. Testing tools -
+	Swagger by Swashbuckel (inbuilt since .net core 5.0)
+	PostMan (learn this in case if your project is below .net core 5)
+	Fiddler etc...

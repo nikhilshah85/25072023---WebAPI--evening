@@ -1,0 +1,18 @@
+What you should be good at at
+1. good hold on OOPS, HTML, CSS and JS 
+
+2. Set of softwares
+	Visual Studio - 2019 or above ( I am on 2022)
+	SQL Server 2014 or above (I am on 2016)
+	SSMS 
+	PostMan
+	GIT 
+
+
+if you do nto have this softwares - u can use Cloud Lab
+
+-------
+Expectations :
+	1. Be on time
+	2. Be interactive
+		complete task, assignments, readings, examples, demos etc...

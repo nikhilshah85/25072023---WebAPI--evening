@@ -1,0 +1,20 @@
+C - Create a new record  (Insert)
+R - Read (select)
+U - Update - Edit (update)
+D - Delete - remove (delete)
+
+
+
+www.iamnikhilshahtrainer.com
+
+
+there is no such site ?
+ what do u get ?
+
+
+404 
+200 - all ok
+201 - created
+500 - interal server error
+
+there are 5 categories of this error
