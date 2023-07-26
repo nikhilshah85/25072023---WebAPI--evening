@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9NCdIeCZjyNo8cF3wnsbAwrYwnJNkKXE1txq3BuXnVnWR3IHOFp0Bpk/rMsnZ06uZVQ+ENJE5joypTqxWUIztA==",
+  "dgSpecHash": "V8n0zHEr/ZOPWNLabDnQYdjUtOEOI76doKhi7UTY7KitCKv7QRbdtNyMLg8cxxrMmikFe5j9taKTWvZshdkx5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI -evening\\25072023---WebAPI--evening\\Day 1\\greetingsAPI\\greetingsAPI\\greetingsAPI.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI -evening\\25072023---WebAPI--evening\\Day 2\\shoppingAPI_inMemoryCollection\\shoppingAPI_inMemoryCollection\\shoppingAPI_inMemoryCollection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

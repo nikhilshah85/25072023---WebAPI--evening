@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI -evening\\25072023---WebAPI--evening\\Day 1\\greetingsAPI\\greetingsAPI\\greetingsAPI.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI -evening\\25072023---WebAPI--evening\\Day 2\\shoppingAPI_inMemoryCollection\\shoppingAPI_inMemoryCollection\\shoppingAPI_inMemoryCollection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI -evening\\25072023---WebAPI--evening\\Day 1\\greetingsAPI\\greetingsAPI\\greetingsAPI.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI -evening\\25072023---WebAPI--evening\\Day 2\\shoppingAPI_inMemoryCollection\\shoppingAPI_inMemoryCollection\\shoppingAPI_inMemoryCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI -evening\\25072023---WebAPI--evening\\Day 1\\greetingsAPI\\greetingsAPI\\greetingsAPI.csproj",
-        "projectName": "greetingsAPI",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI -evening\\25072023---WebAPI--evening\\Day 1\\greetingsAPI\\greetingsAPI\\greetingsAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI -evening\\25072023---WebAPI--evening\\Day 2\\shoppingAPI_inMemoryCollection\\shoppingAPI_inMemoryCollection\\shoppingAPI_inMemoryCollection.csproj",
+        "projectName": "shoppingAPI_inMemoryCollection",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI -evening\\25072023---WebAPI--evening\\Day 2\\shoppingAPI_inMemoryCollection\\shoppingAPI_inMemoryCollection\\shoppingAPI_inMemoryCollection.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI -evening\\25072023---WebAPI--evening\\Day 1\\greetingsAPI\\greetingsAPI\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI -evening\\25072023---WebAPI--evening\\Day 2\\shoppingAPI_inMemoryCollection\\shoppingAPI_inMemoryCollection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
