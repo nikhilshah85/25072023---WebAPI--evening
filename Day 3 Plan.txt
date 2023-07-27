@@ -1,0 +1,10 @@
+1. take the code from Git Hub
+2. Run and test the project, try all the get, put, post, delete
+3. write code once again
+4. read the blog
+
+-------------------
+
+Tomorrow Day 3 :
+
+API application with ORM - Entity Framework with SQL Server (CRUD operations)
