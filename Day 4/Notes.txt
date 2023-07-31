@@ -1,0 +1,70 @@
+Day 4 : EF Core next level
+
+step 1 : Create a new database - EmployeeManagement
+	add below tables
+		deptInfo
+			deptNo (PK)
+			deptName
+			deptLocation
+
+				add 5 departments
+	
+		employeeInfo
+			empNo (PK)
+			empName
+			empDesignation
+			empSalary
+			empIsPermenant
+			
+				add 7 records
+
+
+step 2: Create a new api application 
+
+step 3: Add EF Core Nuget packages - There are 4 packages to be added in a sequence
+		
+step 4: Create 2 controllers bases on above 2 tables
+
+step 5 : test api output for all the crud operations
+
+---------------------------------------------------------------------------------
+step 6 : add new table openings
+		positionId (PK)
+		totalPositions
+		designation
+		JobTitle
+		isPositionOpen
+		positionDept (Foreign Key) - with dept table
+
+step 7 : Add new column to employeeInfo table - deptartmentNo
+
+step 8 : create a view 
+	create view empDetails 
+	as
+	select * from employeeInfo join deptInfo 
+	on
+	employeeInfo.deptartmentNo = deptInfo.deptNo
+
+ Scaffold-DbContext "server=(localdb)\MSSQLLocalDB;database=employeeManagement;integrated security=true" -Provider Microsoft.EntityFrameworkcore.SqlServer -OutputDir Models\EF -Force
+
+
+step 9 : delete all the Old controllers for the entities which has changed (all 2 in this case)
+
+step 10 : create 4 controllers based on 4 models you will have (3 for table and 1 for view)
+
+step 11: you cannot perform insert, update or delete on a view, thus controller should also not allow HttpPut,HttpPost and HttpDelete actions
+			thus remove the same from controller
+
+step 12 : Build and test the appliation
+
+
+
+
+
+
+
+
+
+
+
+		
