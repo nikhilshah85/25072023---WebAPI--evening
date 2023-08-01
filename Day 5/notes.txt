@@ -1,0 +1,19 @@
+WebPI Developer
+	a. Create webapi
+	b. Consume WebAPI in your front application (Make a get call, display data in a table, 							Put,post,delete)
+		two ways to consume 
+		 1. Client side calls - fetch api for the same - standard built into every browser
+			This is the fastest - but less secure for critical data calls
+		 2. Sever Side - HttpClient class - a class for safe calls
+			This is safest - bit slower than above one
+
+
+----------------------------------
+	fetch api - standard by W3C and part of every Modern browser
+	this is asyn in nature 
+	this returns a promise - which is good for end user
+
+
+	fetch( url ).then( responseDataType)
+		   .then( data => { code to display data }
+		   .catch (err => { code to display error }

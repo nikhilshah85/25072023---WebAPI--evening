@@ -1,0 +1,18 @@
+Complete the task
+
+https://codeshare.io/0gKrVm
+
+
+-------------------------------------------
+
+Tomorrow :
+1. Configure CORS
+2. Consume Same WebAPI in MVC project
+
+if you do not have this project completed then you wont be able to 
+do demos tomorrow onwards
+
+	Microsoft.EntityFrameworkCore.Tools
+	Microsoft.EntityFrameworkCore.Design
+	Microsoft.EntityFrameworkCore
+	Microsoft.EntityFrameworkCore.SqlServer

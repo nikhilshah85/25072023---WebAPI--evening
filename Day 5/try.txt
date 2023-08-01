@@ -1,0 +1,23 @@
+Try :
+
+1. make a call to Post dada
+
+	https://jsonplaceholder.typicode.com/posts
+
+
+2. Make a call to users
+		https://jsonplaceholder.typicode.com/users (this is a compllex json / nested json)
+
+		display below in a table
+
+
+			name
+			userName
+			email
+			city
+			lat
+			lng
+			companyname
+			companycatchphase
+			
+
