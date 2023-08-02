@@ -1,0 +1,28 @@
+﻿<h1 style="text-align:center">User Comments</h1>
+<button class="btn btn-primary" onclick="getCommsData()">Show Comments</button>
+<table class="table table-bordered"> </table>
+
+<script>
+    function getCommsData() {
+        var url = "https://jsonplaceholder.typicode.com/comments";
+        fetch(url).then(responseDataType => responseDataType.json())
+            .then(result => {
+                //alert('Success');
+                //console.log(result);
+                for(var i = 0; i<result.length; i++)
+                    {
+                        $("table").append("<tr>"
+                            + "<td>" + result[i].id + "<td>"
+                        + "<td>" + result[i].postId + "<td>"
+                        + "<td>" + result[i].name + "<td>"
+                        + "<td>" + result[i].email + "<td>"
+                        + "<td>" + result[i].body + "<td>"
+                        + "</tr>")
+                    }
+            })
+            .catch(err => {
+                alert('Got Error');
+                console.log(err);
+            })
+    }
+</script>

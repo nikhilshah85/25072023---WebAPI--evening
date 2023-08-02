@@ -13,6 +13,12 @@ namespace consumeAPI_fetch.Controllers
             _logger = logger;
         }
 
+        public IActionResult getCommsData()
+
+        {
+            return View();
+        }
+
 
         public IActionResult GetCommentsData()
         {
